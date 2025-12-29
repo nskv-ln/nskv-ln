@@ -18,7 +18,7 @@
 
 **Ссылки:** 
 *   Код для запуска сайта находится [тут](https://github.com/nskv-ln/nskv-ln/blob/310b34a70c7930d06d2e023d002437405f4431c8/project%20mini-shop/code)
-*   Тест-кейсы [здесь](https://github.com/nskv-ln/nskv-ln/blob/main/project%20mini-shop/Test_Case.xlsx)
+*   Тест-кейсы [здесь](https://github.com/nskv-ln/nskv-ln/blob/main/project%20mini-shop/Test-case.pdf)
 *   Баг-репорты тут
 <!--
 **nskv-ln/nskv-ln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
