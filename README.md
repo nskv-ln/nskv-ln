@@ -19,7 +19,6 @@
 **Ссылки:** 
 *   Код для запуска сайта находится [тут](url)
 
-
 <!--
 **nskv-ln/nskv-ln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
