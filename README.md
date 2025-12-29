@@ -17,7 +17,7 @@
 **Результат:** Выявлено 7 критических дефектов. 
 
 **Ссылки:** 
-*   Код для запуска сайта находится [тут](url)
+*   Код для запуска сайта находится [тут](project mini-shop/code)
 
 <!--
 **nskv-ln/nskv-ln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
