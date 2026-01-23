@@ -20,8 +20,8 @@
 *Результат:** Выявлено 7 критических дефектов. 
 
 **Ссылки:** 
-*   [Test-cases here](./Test_case_folder/Mini_Shop_Test-case.pdf)
-*   [Bag-Report here](./Project_1/Тестирование_Mini_Shop_Баг-репорты.pdf)
+*   [Test-cases](./Test_case_folder/Mini_Shop_Test-case.pdf)
+*   [Bug-Report](./Project_1/Тестирование_Mini_Shop_Баг-репорты.pdf)
 
 ### Проект 2: Тестирование приложения "Автомат с напитками"
 **Задача:** Написать тест-кейсы согласно требованиям, провести тестирование и сделать отчеты о дефектах.
