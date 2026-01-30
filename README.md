@@ -2,8 +2,8 @@
 
 <a href="https://vk.com/nskv_ln">
   <kbd>
-  <button>Связь со мной</button>
-    </kbd>
+   <button>:point_right:Связь со мной</button>
+  </kbd>
 </a>
 
 # 👋 Портфолио: QA Manual Engineer
