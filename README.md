@@ -1,4 +1,11 @@
 ![563e5368b3f244584e13382a854ac410](https://github.com/user-attachments/assets/0ac54a59-f74d-4d9b-a8df-9cfa293105a3)
+
+<a href="https://vk.com/nskv_ln">
+  <kbd>
+  <button>Связь со мной</button>
+    </kbd>
+</a>
+
 # 👋 Портфолио: QA Manual Engineer
 
 Привет, меня зовут Алёна!
